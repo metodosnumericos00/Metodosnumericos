@@ -27,7 +27,7 @@ namespace Metodos
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            gg.Text = "PERDIMOS METODOS SEÑORES";
+            gg.Text = "Valimos Verga  ";
         }
     }
 }
