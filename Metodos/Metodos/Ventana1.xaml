@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Ventana1" Height="450" Width="800">
     <Grid>
-        
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="327,146,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="206,123,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
